@@ -26,7 +26,7 @@ See AUTHORS file.
 
 More detail in `requirements.txt` and `requirements_prod.txt`; it is best to
 use virtualenv and pip to handle these. But if you insist on (Arch Linux)
-packages, you will probably want the following:
+packages, you will probably want the following:(go through)
 
 - python-django
 - python-psycopg2
