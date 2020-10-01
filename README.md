@@ -1,10 +1,11 @@
 # Archweb README
+# important points
 
 [![Actions Status](https://github.com/archlinux/archweb/workflows/Github-Actions/badge.svg)](https://github.com/archlinux/archweb/actions)
 [![Build Status](https://travis-ci.com/archlinux/archweb.svg?branch=master)](https://travis-ci.com/archlinux/archweb)
 [![Coverage Status](https://coveralls.io/repos/github/archlinux/archweb/badge.svg?branch=master)](https://coveralls.io/github/archlinux/archweb?branch=master)
 
-To get a pretty version of this document, run
+To get a pretty version of this document, run and see the out put of:
 
     $ markdown README > README.html
 
