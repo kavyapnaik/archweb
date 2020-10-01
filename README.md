@@ -56,7 +56,7 @@ packages, you will probably want the following:(go through)
         ./manage.py migrate
 
 5. Load the fixtures to pre populate some data. If you don't want some of the
-   provided data, adjust the file glob accordingly.
+   provided data, adjust the file below glob accordingly.
 
         ./manage.py loaddata main/fixtures/*.json
         ./manage.py loaddata devel/fixtures/*.json
